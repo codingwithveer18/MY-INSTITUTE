@@ -24,13 +24,14 @@ html{
 }
 
 /* Navigation bar: logo and image */
-#logo {
+/* #logo {
     margin: 10px 0px;
-}
+} */
 
 #logo img {
-    height: 66px;
-    margin: 9px 13px 0px 13px;
+    height: 78px;
+    margin-top: 15px;
+    margin-right: 150px;
 }
 
 /*Navigation bar: List styling */
@@ -59,12 +60,12 @@ html{
 
 #navbar ul li a {
     display: block;
-    padding: 4px 15px;
+    padding: 3px 14px;
     border-radius: 20px;
     text-decoration: none;
     color: white;
     font-weight: bold;
-    margin: 30px
+    margin: 20px;
 }
 
 #navbar ul li a:hover {
